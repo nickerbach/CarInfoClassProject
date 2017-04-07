@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Every Auto</string>
+    <string name="enter_model_name">Enter Model Name</string>
+    <string name="enter_make">Enter Make to Filter</string>
+    <string name="error">An error has occurred. Please try again.</string>
+    <string name="enter_model">Enter Model to Filter</string>
+    <string name="model_selector">Select Model from </string>
+    <string name="year_selector">Select Year from</string>
+    <string name="load_info">Load Info</string>
+    <string name="placeholder">Title Placeholder</string>
+    <string name="carImage">carImage</string>
+    <string name="engine_details">Engine Details: </string>
+    <string name="no_style">No Styles Available</string>
+    <string name="fuel_type">"Fuel Type: "</string>
+    <string name="size">"Size: "</string>
+    <string name="cylinderCount">Cylinder Count:</string>
+    <string name="transmission_details">Transmission Details:</string>
+    <string name="type">"Type: "</string>
+    <string name="speed_count">Speeds:</string>
+    <string name="price_details">Price Details:</string>
+</resources>

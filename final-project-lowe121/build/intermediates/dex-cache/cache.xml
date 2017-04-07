@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_6c963ea6140a261eff890b331e5cbda0467f39a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/okio-1.11.0_aa582071ea783f9434160092fe9f490fe153b718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/62a44861260c8c5111c1557e2782983b1cdf1aa7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_1035f2945f674898b79be0f61b31196f45f1da12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/fbac9fb113d41c51e1a9a008e8f347d3dfa63471/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_3ed1854d8cbf51c57256375d2704d3b00aed0b4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/ef6e8bbcbf9c69723d327225c168ea6dd4fd666c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_d71df8551f36d8b60658bc0fe898f3e84f47ca25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/f040a51f49c288a8625a84a6ec078070f03a75e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_469187c55a7683b3b45bc803459528ea0d6ee1cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/okhttp-3.5.0_d98caaf9e156da4b9a61696d03afad786b3af29f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/d039df35c3ce06f43d386e88a24400e0eb0b7f3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_30371d6f6f6f43bd01c5eadfd924b14cc6985d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/gson-2.8.0_9055c65449a34ccfaf180ad89cff933998a8239b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/d7a14fce23ea8d432405f7f1d6811f45e33df483/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_f09cc2f6b3f11e0348d8ba40ebe0120e85908f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/6e9c2ed78c66a30c1442480878c9f29e6c93741b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_b1d5a597a7e23ff03aa5d28900b5824261b60b5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_11c8afa2acc7537a45c44f8c16b8bfbde2c9c0b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/2796e85843063e01cad668f51fc1695d3cdf27ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_ac0ab6ec19f81751f5e8413da6313da7ceb88a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/44afd7bab434dae0ae3022d90259a38d3d563b38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_f21b909d1efe762d2b5c7cfaa1c3735333ad14d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreylowe/.android/build-cache/1e8bc3bd934d50b596453d7a1f3e10fb3397f1a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_43d2c8cf69502a6ff55044673a44d968ed14b6e6.jar" />
+    </item>
+
+</items>
