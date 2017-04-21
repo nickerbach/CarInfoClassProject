@@ -23,6 +23,7 @@ import edu.chapman.lowe121.carinfo.adapters.MakesAdapter;
 import edu.chapman.lowe121.carinfo.api_wrappers.EdmundsAPI;
 import edu.chapman.lowe121.carinfo.models.ListOfMakesModelsYears.Make;
 import edu.chapman.lowe121.carinfo.models.ListOfMakesModelsYears.Makes;
+import edu.chapman.lowe121.carinfo.models.SpecificModelDetails.Styles;
 import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.Response;
@@ -31,6 +32,8 @@ public class MakeListActivity extends AppCompatActivity {
 
     public final static String TAG = "MakeListActivity";
     private static Makes makes;
+    private Styles styles;
+    private List<Styles> stylesList;
     private List<String> makeNames = new ArrayList<>();
     private List<String> filteredMakeNames = new ArrayList<>();
     private RecyclerView rv_makeList;
@@ -88,8 +91,41 @@ public class MakeListActivity extends AppCompatActivity {
                     if (makes.makes != null) {
                         for (Make make : makes.makes) {
                             makeNames.add(make.name);
+
+                            //TODO: fix api call limit
+                            //Causes a crash due to api call limit...
+//                            for (Model model : make.models) {
+//                                for (Year years : model.years) {
+//                                    EdmundsAPI.getModelDetails(make.name, model.name, years.year, new Callback() {
+//                                        @Override
+//                                        public void onFailure(Call call, IOException e) {
+//
+//                                        }
+//
+//                                        @Override
+//                                        public void onResponse(Call call, Response response) throws IOException {
+//                                            String resp = response.body().string();
+//                                            if (resp.contains("FORBIDDEN") || resp.contains("BAD")) {
+//                                                Log.e(TAG, "getModelDetails: onResponse: " + resp);
+//                                                error = true;
+//                                                runOnUiThread(new Runnable() {
+//                                                    @Override
+//                                                    public void run() {
+//                                                        finish();
+//                                                    }
+//                                                });
+//                                            } else {
+//                                                styles = new Gson().fromJson(resp, Styles.class);
+//                                                stylesList.add(styles);
+//                                            }
+//                                        }
+//                                    });
+//                                }
+//                            }
                         }
                     }
+
+
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
@@ -97,6 +133,13 @@ public class MakeListActivity extends AppCompatActivity {
                             rv_makeList.setVisibility(View.VISIBLE);
                             et_makeFilter.setVisibility(View.VISIBLE);
                             loading.setVisibility(View.GONE);
+//                            for (Styles styles : stylesList)
+//                            {
+//                                for (Style style : styles.styles)
+//                                {
+//                                    Log.d(TAG, style.name);
+//                                }
+//                            }
                         }
                     });
                 }

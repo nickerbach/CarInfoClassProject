@@ -16,9 +16,10 @@ public class EdmundsAPI {
 
     //Multiple keys for use limit
     //private static String apiKey = "&api_key=dg5rj2zrwv3rjy6udqygv7ze";
-    private static String apiKey = "&api_key=2b5t6ffbjmymdjyjvvfa78w7";
+    //private static String apiKey = "&api_key=2b5t6ffbjmymdjyjvvfa78w7";
     //private static String apiKey = "&api_key=aakb9z93ht64zqu3egr9subu";
     //private static String apiKey = "&api_key=33xyne6uyaddnpa9maxdpbtc";
+    private static String apiKey = "&api_key=urkh3kww2zyn5cyxawxhac9n";
 
     private static String baseUrl = "https://api.edmunds.com/api/";
 
@@ -42,7 +43,7 @@ public class EdmundsAPI {
         Log.d(TAG, "ListAllCars: " + fullUrl);
     }
 
-    public static void getModelDetails(String make, String model, int year, Callback onFinish) {
+    public static void getModelDetails(String make, String model, String year, Callback onFinish) {
         String method = "vehicle/v2/";
 
         make = make.replace(" ", "");

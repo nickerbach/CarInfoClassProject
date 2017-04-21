@@ -97,7 +97,7 @@ public class ModelDetailActivity extends AppCompatActivity {
 
         title.setText(year + " " + makeName + " " + modelName);
 
-        EdmundsAPI.getModelDetails(makeName, modelName, Integer.valueOf(year), new Callback() {
+        EdmundsAPI.getModelDetails(makeName, modelName, year, new Callback() {
             @Override
             public void onFailure(Call call, final IOException e) {
                 runOnUiThread(new Runnable() {
