@@ -45,6 +45,10 @@ public class EdmundsAPI {
     public static void getModelDetails(String make, String model, int year, Callback onFinish) {
         String method = "vehicle/v2/";
 
+        make = make.replace(" ", "");
+
+        model = model.replace(" ", "");
+
         String queryParams = make + "/" + model + "/" + year + "/styles?view=full&fmt=json";
 
         String fullUrl = baseUrl + method + queryParams + apiKey;
@@ -62,6 +66,10 @@ public class EdmundsAPI {
 
     public static void getPictures(String pictureType, String make, String model, int year, Callback onFinish) {
         String method = "media/v2/";
+
+        model = model.replace(" ", "");
+
+        make = make.replace(" ", "");
 
         String queryParams = make + "/" + model + "/" + year + "/photos?shottype=" + pictureType + "&view=basic&fmt=json";
 

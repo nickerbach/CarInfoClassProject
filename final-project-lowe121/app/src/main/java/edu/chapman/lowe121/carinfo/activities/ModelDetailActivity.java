@@ -112,7 +112,7 @@ public class ModelDetailActivity extends AppCompatActivity {
             @Override
             public void onResponse(Call call, Response response) throws IOException {
                 String resp = response.body().string();
-                if (resp.contains("FORBIDDEN")) {
+                if (resp.contains("FORBIDDEN") || resp.contains("BAD")) {
                     Log.e(TAG, "getModelDetails: onResponse: " + resp);
                     error = true;
                     runOnUiThread(new Runnable() {
