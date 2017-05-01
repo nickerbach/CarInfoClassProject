@@ -2,139 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\7cee914bf5ec04c1625edc1bebdd52286146286a\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_6c963ea6140a261eff890b331e5cbda0467f39a7.jar" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c4eff5559c2c74d4992f8b95fa1370c3efac648\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\93cf167ebbbba7d97af0f906246387f7edf5dcd4\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/okio-1.11.0_aa582071ea783f9434160092fe9f490fe153b718.jar" />
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a7739b2b10ad1e8314b5c62ba81ba0c964c6fc2\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/62a44861260c8c5111c1557e2782983b1cdf1aa7/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_1035f2945f674898b79be0f61b31196f45f1da12.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/fbac9fb113d41c51e1a9a008e8f347d3dfa63471/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_3ed1854d8cbf51c57256375d2704d3b00aed0b4b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/ef6e8bbcbf9c69723d327225c168ea6dd4fd666c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_d71df8551f36d8b60658bc0fe898f3e84f47ca25.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/f040a51f49c288a8625a84a6ec078070f03a75e3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_469187c55a7683b3b45bc803459528ea0d6ee1cb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Tyler\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/okhttp-3.5.0_d98caaf9e156da4b9a61696d03afad786b3af29f.jar" />
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.5.0_761e84dd594cff4c6724ef4c0c7d0934f72f709e\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/d039df35c3ce06f43d386e88a24400e0eb0b7f3d/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="F:\AndroidStudio\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_30371d6f6f6f43bd01c5eadfd924b14cc6985d47.jar" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6cc287e7e2ce56826d60953829204a83900bdb94\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/gson-2.8.0_9055c65449a34ccfaf180ad89cff933998a8239b.jar" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ac2ade50477dda931ee564534f3a04c414f07172\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/d7a14fce23ea8d432405f7f1d6811f45e33df483/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\899ad62fc9b5400791ecad17d2d44fb4039ea422\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_f09cc2f6b3f11e0348d8ba40ebe0120e85908f0f.jar" />
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_646b6d704a831d0f0f8fe5a5cc297e37b8303cd7\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/6e9c2ed78c66a30c1442480878c9f29e6c93741b/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Tyler\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_b1d5a597a7e23ff03aa5d28900b5824261b60b5c.jar" />
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_c2e2b9048aaf4678f5cde49f31aa7b772e7b6140\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Tyler\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_11c8afa2acc7537a45c44f8c16b8bfbde2c9c0b8.jar" />
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_20dc3f8b232d735a1dce107b9d9765c5ec231c9d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/2796e85843063e01cad668f51fc1695d3cdf27ff/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\d2ab8e14cc66876b9becc3c8a69f0d2c18fbeb7e\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_ac0ab6ec19f81751f5e8413da6313da7ceb88a6c.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05b66aab80d27c7892d94fc11266ce7b68e4f106\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/44afd7bab434dae0ae3022d90259a38d3d563b38/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\9a9e47e29b194811435d1d5e0bcfae83f48efaba\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_f21b909d1efe762d2b5c7cfaa1c3735333ad14d2.jar" />
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24f3208edd2b2d13c97744354a554e1f7f3a146e\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/coreylowe/.android/build-cache/1e8bc3bd934d50b596453d7a1f3e10fb3397f1a3/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\6b36302e38450725f1baf45315b124b216538049\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/coreylowe/Documents/School/College/Chapman/Classes/Fall 2016/Android Dev (CPSC 356)/Assignments/final-project-lowe121/app/build/intermediates/pre-dexed/debug/classes_43d2c8cf69502a6ff55044673a44d968ed14b6e6.jar" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d60703c9ae22e8ef8b5812c229a18dc4911574c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\3713bfdb67cfad3336b7c7fa7797df1b51f5d53b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f65b86ce7dd75ffd22c117fe56b0ea49f92483ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\e477b68cc4f2eec6e2c4b030a9414e868fcf3811\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08b9bf1294bc6980f422f43feb0bd69ce9be1a34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\c958497bb1ec062a52b4efb4e7042f030f7073a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1776892b42bd50757bf9eecbb666fb6975d0e3aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tyler\.android\build-cache\1e684e9c51cd594494459a19676037e6feb6ac44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d9b345c2690e98d5c1871e0639891b424876a74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4158474d446b9188fdac72c5d126cd0d46d290d2">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_62a87954bb8a61a04af967e82163a79e5cea9f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tyler\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="F:\Documents\GIT\CarInfoClassProject\final-project-lowe121\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_6374b50ba2e779f660473352e8909c3bd9a5054c\classes.dex" />
     </item>
 
 </items>
